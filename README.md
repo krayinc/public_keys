@@ -1,2 +1,1 @@
-public_keys
-===========
+KRAY members' public keys.
